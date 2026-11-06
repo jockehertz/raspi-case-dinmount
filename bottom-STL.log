@@ -1,0 +1,26 @@
+STL translation to Solid Edge
+Date: Friday,August 28,2026 04:01pm
+Source File:S:\projects\raspi-case\bottom.stl
+Author: Unknown
+Organization: Unknown
+Source System: DEX
+
+Hardware:
+Processor: Intel(R) Core(TM) Ultra 7 258V
+Operating System: Windows 10
+Installed Memory: 31,54 GB
+
+Software Information:
+Parasolid Version: 38.0.150
+PSBodyshop Version: 38.0.111
+STL Adapter Version: 1700.0.0
+Solid Edge Version: 226.00.00.106 x64
+
+STL Import Options
+Heal Mesh Faults:Off
+Make Base Feature:On
+Enable Logging:On
+
+Translation progress:
+Translation process completed
+Time required to translate:00 : 00 : 00
